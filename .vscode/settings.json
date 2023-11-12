@@ -1,4 +1,7 @@
 {
     "auto-close-tag.enableAutoCloseSelfClosingTag": true,
-    "workbench.editor.closeOnFileDelete": true
+    "workbench.editor.closeOnFileDelete": true,
+    "cSpell.words": [
+        "ยืนยันอีเมล"
+    ]
 }
